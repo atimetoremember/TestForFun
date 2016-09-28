@@ -17,10 +17,10 @@ class JustForFun extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Hello World and Change the World!
+          Change From Client !!!!
         </Text>
         <Text style={styles.instructions}>
-          To get started, edit index.android.js
+          To get started, edit index.android.js 
         </Text>
         <Text style={styles.instructions}>
           Double tap R on your keyboard to reload,{'\n'}
